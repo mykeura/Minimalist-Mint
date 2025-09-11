@@ -1,6 +1,6 @@
 # Minimalist Mint 🍃
 
-The official Minimalist Mint theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Mint, designed for a serene and elegant browsing experience.
+The official Minimalist Mint theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Mint, creating a serene and focused browsing experience.
 
 ![Minimalist Mint Theme Preview](images/preview.png)
 
