@@ -1,4 +1,4 @@
-# Minimalist Mint 🍃
+# Minimalist Mint
 
 A minimal Chrome theme in a cool, refreshing palette, by Miguel Euraque.
 
